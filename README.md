@@ -47,7 +47,8 @@
 ### 🛸 A HUD for your tablet
 Landing, power management, quantum, operator modes, shields, targeting,
 salvage, mining, doors, emotes and more, on a two-half HUD that pages through
-panels. Phones get their own layout. In English, Español, Français or Deutsch.
+panels. Phones get their own layout. In English, Español, Français, Deutsch or
+中文.
 
 </td>
 <td width="50%" valign="top">
@@ -383,7 +384,8 @@ in **Deck settings**. Each tablet remembers its own. Under **Display**:
 
 ### Languages
 
-The deck and the app window come in **English, Español, Français and Deutsch**.
+The deck and the app window come in **English, Español, Français and Deutsch**;
+the deck can also show 中文 (Chinese).
 
 - **On the tablet:** pick it under **Layout → Language** in **Deck settings**. Each
   tablet and phone starts in its own language (if it's one of these) and

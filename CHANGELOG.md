@@ -5,6 +5,12 @@ section becomes the notes of its
 [GitHub release](https://github.com/nodieCode/tablet-deck/releases), so add one
 before tagging a release.
 
+## Unreleased
+
+- **中文 (Chinese):** the deck can show its text in Chinese, alongside Español,
+  Français and Deutsch. Each tablet and phone picks its language under Layout
+  in Deck settings, starting from the device's own language.
+
 ## 1.6.0 (2026-10-26)
 
 - **Español, Français and Deutsch:** the deck and the app window can show
