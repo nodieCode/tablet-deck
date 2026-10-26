@@ -152,7 +152,7 @@ Text is written in English and translated where it's shown, so layouts, keys
 and voice phrases never change with the language.
 
 - **The deck:** `public/i18n.js` maps each English text to
-  `[Español, Français, Deutsch]`. `t()` translates; `canvas.js`, `fx.js` and
+  `[Español, Français, Deutsch, Català]`. `t()` translates; `canvas.js`, `fx.js` and
   `app.js` call it for what they draw, and `apply()` translates the fixed text
   in `index.html`. Text without an entry shows in English, which is how players'
   own labels stay as they wrote them.
